@@ -1,0 +1,26 @@
+{
+    "name": "Arduino non-locking Menu",
+    "description": "Read sensors, activate actuator and process menu without block code execution",
+    "keywords": "Menu, Lidar, Sonar, RTC, Laser, Buttons, WiFi, Display",
+    "authors": [
+        {
+            "name": "Giuliano Nascimento"
+        },
+        {
+            "name": "Giuliano Nascimento",
+            "email": "giusoft@hotmail.com",
+            "url": "http://www.giusoft.com.br",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+         "url": "https://github.com/GiulianoNascimento/nlmenu"
+    },
+    "version": "1.6.1",
+    "homepage": "http://playground.arduino.cc/Code/Time",
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}
