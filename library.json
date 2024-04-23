@@ -17,8 +17,8 @@
         "type": "git",
          "url": "https://github.com/GiulianoNascimento/nlmenu"
     },
-    "version": "1.6.1",
-    "homepage": "http://playground.arduino.cc/Code/Time",
+    "version": "0.0.1",
+    // "homepage": "http://playground.arduino.cc/Code/NLMenu",
     "frameworks": "Arduino",
     "examples": [
         "examples/*/*.ino"
