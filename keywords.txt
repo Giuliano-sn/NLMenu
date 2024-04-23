@@ -1,8 +1,9 @@
 #Classes
-nlmenu       KEYWORDS1
+NLMenu       KEYWORDS1
 
 #Metodos
-set
+NLMenu       KEYWORDS2
+set          KEYWORDS2
 enable       KEYWORDS2
 disable      KEYWORDS2
 

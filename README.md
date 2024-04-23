@@ -1,6 +1,6 @@
 # Arduino Non-locking Menu
 
-Time is a library that provides a non-locking menu with reading sensors and run actuators functionalities for Arduino.
+NLMenu is a library that provides a non-locking menu with reading buttons, sensors and run actuators functionalities for Arduino.
 
 Using the Arduino Library Manager, install "*NLMenu* by *Giuliano Nascimento*".
 
